@@ -1,0 +1,44 @@
+[
+    {
+        "asset_id": 342330279,
+        "asset_name": "FractBud01",
+        "unit_name": "FBUD1",
+        "imageURL": "https://ipfs.io/ipfs/bafkreih5qnql4h5nf5nazftlb2nn7oudytflbftr7nxuaz3qn4stjtun2m"
+    },
+    {
+        "asset_id": 342332942,
+        "asset_name": "FractBud02",
+        "unit_name": "FBUD2",
+        "imageURL": "https://ipfs.io/ipfs/bafkreiapoyhmw3l2tk47rinkqhmjawutkatj6susdzautdi7wxh3qisate"
+    },
+    {
+        "asset_id": 342338606,
+        "asset_name": "FractBud03",
+        "unit_name": "FBUD3",
+        "imageURL": "https://ipfs.io/ipfs/bafkreiggiqp5z5bbdd4trq7atiu2g4juptj2arllj447a56xbrzni5piou"
+    },
+    {
+        "asset_id": 342340764,
+        "asset_name": "FractBud04",
+        "unit_name": "FBUD4",
+        "imageURL": "https://ipfs.io/ipfs/bafkreigmrhdbnl77kkleosw45dueccq35a7o654rodfonqqudi4olj33ru"
+    },
+    {
+        "asset_id": 342342927,
+        "asset_name": "FractBud05",
+        "unit_name": "FBUD5",
+        "imageURL": "https://ipfs.io/ipfs/bafkreihfgct22qgaud3llpd2dsz4jrxebzziiygi2rsbpycqczqxalrsti"
+    },
+    {
+        "asset_id": 342347070,
+        "asset_name": "FractBud06",
+        "unit_name": "FBUD6",
+        "imageURL": "https://ipfs.io/ipfs/bafkreidtrrakkbj2pmcianawoida4ve7axjn5kfsqms34kmv5r6wrwg6zq"
+    },
+    {
+        "asset_id": 342355723,
+        "asset_name": "FractBud07",
+        "unit_name": "FBUD7",
+        "imageURL": "https://ipfs.io/ipfs/bafkreifpuw3hok5src4bcvceai6qtnlc6ptjnvziy6cusmvaemvvjo46la"
+    }
+]
