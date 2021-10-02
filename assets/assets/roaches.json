@@ -2983,7 +2983,7 @@
     },
     {
         "asset_id": 350968026,
-        "asset_name": "RHR488",
+        "asset_name": "ReallyHighRoach_RHR488",
         "unit_name": "RHR488",
         "imageURL": "https://ipfs.io/ipfs/bafkreicertdnwkxkxlb5auims2j4k4pzd2muczvgs4gvblmrev4m2owwtu"
     },
@@ -4570,12 +4570,6 @@
         "asset_name": "ReallyHighRoach_639",
         "unit_name": "RHR639",
         "imageURL": "https://ipfs.io/ipfs/bafkreifetz5f4mpcw3pxhmsuhtozlq7jyuulsjyzatxmbp7xxhf3hfo67y"
-    },
-    {
-        "asset_id": 351824884,
-        "asset_name": "RHR639",
-        "unit_name": "RHR640",
-        "imageURL": "https://ipfs.io/ipfs/bafkreigve3boj5ucqywsxj6dingagocegfmry574kmvwr3duriofdzthpm"
     },
     {
         "asset_id": 351833363,
